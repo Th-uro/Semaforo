@@ -15,4 +15,37 @@ main{
 
 .button {
   width:100px;
+  cursor: pointer;
+}
+
+#green {
+  border-radius: 5px;
+  border: none;
+  color: azure;
+  background-color: green;
+  height: 30px;
+}
+
+#yellow {
+  border-radius: 5px;
+  border: none;
+  color: black;
+  background-color: yellow;
+  height: 30px;
+}
+
+#red {
+  border-radius: 5px;
+  border: none;
+  color: azure;
+  background-color: red;
+  height: 30px;
+}
+
+#automatic {
+  border-radius: 5px;
+  border: none;
+  color: black;
+  background-color: #00ccff;
+  height: 30px;
 }
